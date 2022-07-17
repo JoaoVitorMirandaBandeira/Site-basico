@@ -15,14 +15,11 @@
     --fonte-padrao: Arial, Helvetica, sans-serif;
     --fonte-destaque:'Bebas Neue',cursive;
     --fonte-android:'Android',cursive;
-
 }
-
 body{
     background-color:var(--cor0);
     font-family: var(--fonte-padrao);
 }
-
 header{
     background-image: linear-gradient(to top,#75756A,#B5B5A3,#DBDBC5);
     font-family: Arial, Helvetica, sans-serif;
